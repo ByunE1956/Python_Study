@@ -35,8 +35,3 @@ for number in numbers2:
     output[(number - 1) % 3].append(number)
 print(output)
 
-result = 0
-for i in 101:
-    print(i)
-#    result = result + i
-#print(result)
